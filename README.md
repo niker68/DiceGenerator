@@ -2,7 +2,7 @@
  <p>
  <img src="https://github.com/niker68/DiceGenerator/blob/master/media/Screenshot_2021-04-14-16-34-38-685_com.dicegenerator.jpg" width="216" height="468" /> 
  <img src="https://github.com/niker68/DiceGenerator/blob/master/media/Screenshot_2021-04-14-16-35-06-015_com.dicegenerator.jpg" width="468" height="216" /> 
- </p> 
+ </p>
  
 - Приложение для Android заменяет наборы игральных кубов для настольных игр Panic on the wall street и Catan: Cities & Knights.
 - В приложении также имеется настраиваемый таймер.

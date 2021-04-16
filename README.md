@@ -8,3 +8,6 @@
 - В приложении также имеется настраиваемый таймер.
 - Файл apk для установки [здесь](https://github.com/niker68/DiceGenerator/blob/master/app/release/app-release.apk.)
 
+## Контакты
+  Created by [@niker68](mailto:niker68@yandex.ru)
+
